@@ -52,3 +52,5 @@ Michal Liput - marketing
 
 Norbert Norbi - studio, mastering
 
+Michał Kołowacik - mastering, sound design
+
