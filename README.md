@@ -56,3 +56,5 @@ Michał Kołowacik - mastering, sound design
 
 Ghost Light Music @ghost_light_music (trapcore, has a studio)
 
+@_astrowilk
+
