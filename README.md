@@ -58,5 +58,5 @@ Ghost Light Music @ghost_light_music (trapcore, has a studio)
 
 @_astrowilk
 
-@voorheesxsf - merch, 
+@voorheesxsf - merch, crosspromo
 
