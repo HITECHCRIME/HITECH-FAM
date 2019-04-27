@@ -1,6 +1,6 @@
 # FAM & COLLABS
 
-@ciociakaro (rapper, brutal)
+@ciociacaro (rapper, brutal)
 
 @angelaziomalka (rapper)
 
