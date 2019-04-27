@@ -60,3 +60,9 @@ Ghost Light Music @ghost_light_music (trapcore, has a studio)
 
 @voorheesxsf - merch, crosspromo
 
+BattousaiGxng (Monki, Satsu)
+Spiritual Gang (Leon Indigo, 3shadows)
+
+@mattpsd
+
+
