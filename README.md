@@ -1,8 +1,16 @@
 # FAM & COLLABS
 
-@ciociacaro (rapper, brutal)
+Monki (BattousaiGxng) - Cali, Colombia
 
-@angelaziomalka (rapper)
+Satsu (BattousaiGxng) - Cali, Colombia
+
+Shadows (Spiritual Gang) - Cali, Colombia
+
+Leon Indigo (Spiritual Gang) - Cali, Colombia
+
+@ciociacaro (rapper, brutal) - inactive
+
+@angelaziomalka (rapper) - nonresponsive
 
 @joeu.quattro (metal, heavy rap)
 
