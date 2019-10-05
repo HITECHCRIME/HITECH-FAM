@@ -8,6 +8,8 @@ Shadows (Spiritual Gang) - Cali, Colombia
 
 Leon Indigo (Spiritual Gang) - Cali, Colombia
 
+pr0j3c7_a13x - trap metal
+
 @ciociacaro (rapper, brutal) - inactive
 
 @angelaziomalka (rapper) - nonresponsive
@@ -68,11 +70,6 @@ Ghost Light Music @ghost_light_music (trapcore, has a studio)
 
 @voorheesxsf - merch, crosspromo
 
-BattousaiGxng (Monki, Satsu)
-Spiritual Gang (Leon Indigo, 3shadows)
-
 @mattpsd
-
-@prox3jt on insta
 
 
