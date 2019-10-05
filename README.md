@@ -1,12 +1,12 @@
 # FAM & COLLABS
 
-Monki (BattousaiGxng) - Cali, Colombia
+**Monki** (BattousaiGxng) - Cali, Colombia
 
-Satsu (BattousaiGxng) - Cali, Colombia
+**Satsu** (BattousaiGxng) - Cali, Colombia
 
-Shadows (Spiritual Gang) - Cali, Colombia
+**3Shadows** (Spiritual Gang) - Cali, Colombia
 
-Leon Indigo (Spiritual Gang) - Cali, Colombia
+**Leon Indigo** (Spiritual Gang) - Cali, Colombia
 
 pr0j3c7_a13x - trap metal
 
@@ -22,7 +22,7 @@ pr0j3c7_a13x - trap metal
 
 @fvckarisma (album covers, visuals)
 
-@sara_mora_wska (visuals - lasers)
+**sara mora** @sara_mora_wska (visuals - lasers)
 
 @adyszka (live installations)
 
@@ -32,7 +32,7 @@ pr0j3c7_a13x - trap metal
 
 @inexhaleav (beats)
 
-@willbert.sweet.concept.art (rapper, beats)
+**will** @willbert.sweet.concept.art (rapper, beats) - Canada
 
 @m4dzi (EDM producer)
 
