@@ -1,5 +1,8 @@
 # FAM & COLLABS
 
+RESTRUCTURE THIS INTO AGENT BOARD.
+
+
 **Monki** (BattousaiGxng) - Cali, Colombia
 
 **Satsu** (BattousaiGxng) - Cali, Colombia
