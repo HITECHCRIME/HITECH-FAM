@@ -2,8 +2,8 @@
 
 RESTRUCTURE THIS INTO AN OPERATIVE BOARD.
 - biometric mug shots
-- Mechanoreceptor
-- Sara Mora
+- Mechanoreceptor (Mech)
+- Sara Mora 
 
 **Monki** (BattousaiGxng) - Cali, Colombia
 
