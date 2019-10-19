@@ -2,6 +2,7 @@
 
 RESTRUCTURE THIS INTO AN OPERATIVE BOARD.
 - biometric mug shots
+- Mothnode (Moth)
 - Mechanoreceptor (Mech)
 - Sara Mora (Mora)
 
