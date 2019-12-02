@@ -1,4 +1,4 @@
-# FAM & COLLABS
+# AUDIOVISUAL NARRATIVE MEMETIC CARRIERS
 
 RESTRUCTURE THIS INTO AN OPERATIVE BOARD.
 - biometric mug shots
@@ -80,4 +80,4 @@ Ghost Light Music @ghost_light_music (trapcore, has a studio)
 
 Sjena Nike - Poly Armour (music collab, drone, texture, ambience, can give AR/360 knowledge and tech)
 
-
+- toughcasess / Roksana Kulik (model/actor)
