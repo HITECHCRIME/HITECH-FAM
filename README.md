@@ -88,3 +88,5 @@ Singerorsinner - female wokal collab Singerorsinner@gmail.com
 killlv - collabs
 
 Michael Hofstad - Operative of Hitech Crime mhofstad87@yahoo.com
+
+Collab with xvvoid, Make a collab with Hellosaytin (theme murder, satan, brutality, rites, aggression), Add grimgoblin and iamgaijin, 888loner hellosaytin_theproducer, downwxlf to Operatives list
