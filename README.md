@@ -82,3 +82,5 @@ Sjena Nike - Poly Armour (music collab, drone, texture, ambience, can give AR/36
 
 - toughcasess (model/actor)
 Sulechów/Zielona Góra
+
+Singerorsinner - female wokal collab Singerorsinner@gmail.com
