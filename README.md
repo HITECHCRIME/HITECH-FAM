@@ -86,3 +86,5 @@ Sulechów/Zielona Góra
 Singerorsinner - female wokal collab Singerorsinner@gmail.com
 
 killlv - collabs
+
+Michael Hofstad - Operative of Hitech Crime mhofstad87@yahoo.com
