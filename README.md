@@ -19,7 +19,7 @@ Operative @killlxv - music - US
 Operative @downwxlf - music - US
 Operative @blckbrd.ca - music -
 Operative @iamagaijin - music - US
-Operative @ - music - Poland / Norbert Święconek
+Operative @eGzIT - music - Poland / Norbert Święconek
 Operative @willbert.sweet.concept.art - music - Canada / Willbert Sweet 
 Operative @marv.os - visuals
 ```
