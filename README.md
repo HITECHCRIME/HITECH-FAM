@@ -6,6 +6,8 @@ RESTRUCTURE THIS INTO AN OPERATIVE BOARD_
 - fictional universe background
 - in-universe release roster
 
+Brief_ Each Operative of Hitech Crime acts as an semi-ficticious character within the frame of the transmedia cinematic narrative universe. Themes included are mentioned in the main repo of (https://github.com/HITECHCRIME/HC_OVERVIEW)[HC_Overview]. Please refer to them when creating content be it videos or music releases.
+
 **Confirmed:**
 ```
 Operative @mechanoreceptor
