@@ -8,10 +8,10 @@ RESTRUCTURE THIS INTO AN OPERATIVE BOARD.
 
 **Confirmed:**
 ```
-@killlxv
-@downwxlf
-@blckbrd.ca
-@iamagaijin
+Operative @killlxv
+Operative @downwxlf
+Operative @blckbrd.ca
+Operative @iamagaijin
 Norbert Norbi - studio, mastering
 **will** @willbert.sweet.concept.art (rapper, beats) - Canada
 ```
