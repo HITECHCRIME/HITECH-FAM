@@ -2,6 +2,7 @@
 This list acts as a main directory of Operatives working within the means of Hitech Crime Cinematic Narrative Universe Microlabel.
 
 > Sidenote:
+
 > Transfer this into the hitechcri.me website as a part of the system. Restructure this into an Operative Board including a biometric mug shot, fictional universe background, visual and vibe of an individual and in-universe release roster (either in-timeline or alternative timeline of events).
 
 # BRIEF_
