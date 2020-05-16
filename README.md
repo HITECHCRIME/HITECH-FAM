@@ -1,13 +1,13 @@
 # AUDIOVISUAL NARRATIVE MEMETIC CARRIERS
-Transfer this into the hitechcri.me website as a part of the system.
+This list acts as a main directory of Operatives working within the means of Hitech Crime Cinematic Narrative Universe Microlabel.
 
-RESTRUCTURE THIS INTO AN OPERATIVE BOARD_
-- biometric mug shots
-- fictional universe background
-- in-universe release roster
+> Sidenote:
+> Transfer this into the hitechcri.me website as a part of the system. Restructure this into an Operative Board including a biometric mug shot, fictional universe background, visual and vibe of an individual and in-universe release roster (either in-timeline or alternative timeline of events).
 
-Brief_ Each Operative of Hitech Crime acts as an semi-ficticious character within the frame of the transmedia cinematic narrative universe. Themes included are mentioned in the main repo of [HC_OVERVIEW](https://github.com/HITECHCRIME/HC_OVERVIEW). Please refer to them when creating content be it videos or music releases. Please refer to the official timeline of the universe but don't fear giving feedback and suggesting edits to the Hitech Crime canon.
+# BRIEF_
+Each Operative of Hitech Crime acts as an semi-ficticious character within the frame of the transmedia cinematic narrative universe. Themes included are mentioned in the main repo of [HC_OVERVIEW](https://github.com/HITECHCRIME/HC_OVERVIEW). Please refer to them when creating content be it videos or music releases. Please refer to the official timeline of the universe but don't fear giving feedback and suggesting edits to the Hitech Crime canon.
 
+# DIRECTORY_
 **Confirmed:**
 ```
 Operative @mechanoreceptor
