@@ -1,13 +1,14 @@
 # AUDIOVISUAL NARRATIVE MEMETIC CARRIERS
+Transfer this into the hitechcri.me website as a part of the system.
 
-RESTRUCTURE THIS INTO AN OPERATIVE BOARD.
+RESTRUCTURE THIS INTO AN OPERATIVE BOARD_
 - biometric mug shots
-- Mothnode (Moth)
-- Mechanoreceptor (Mech)
-- Sara Mora (Mora)
+- fictional universe background
+- in-universe release roster
 
 **Confirmed:**
 ```
+Operative @mechanoreceptor
 Operative @killlxv
 Operative @downwxlf
 Operative @blckbrd.ca
