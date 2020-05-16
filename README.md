@@ -19,8 +19,9 @@ Operative @killlxv - music - US
 Operative @downwxlf - music - US
 Operative @blckbrd.ca - music -
 Operative @iamagaijin - music - US
-Norbert Norbi - music - Poland
+Operative Norbert Norbi - music - Poland
 Operative @willbert.sweet.concept.art - music - Canada / Willbert Sweet 
+Operative @marv.os - visuals
 ```
 
 **Potential Operative of Hitech Crime Universe:**
