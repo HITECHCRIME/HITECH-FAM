@@ -13,13 +13,14 @@ Please mind this endeavour is a longterm effort, carefully designed along the wa
 # DIRECTORY_
 **Confirmed Operatives:**
 ```
-Operative @mechanoreceptor
+Director Operative @mothnode - architect/music - Poland / Tim Moth
+Operative @mechanoreceptor - music - Austin, US / Ryan Northcott
 Operative @killlxv - music - US
 Operative @downwxlf - music - US
 Operative @blckbrd.ca - music -
 Operative @iamagaijin - music - US
 Norbert Norbi - music - Poland
-**will** @willbert.sweet.concept.art (rapper, beats) - Canada - music
+Operative @willbert.sweet.concept.art - music - Canada / Willbert Sweet 
 ```
 
 **Potential Operative of Hitech Crime Universe:**
