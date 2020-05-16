@@ -11,15 +11,15 @@ Each Operative of Hitech Crime acts as an semi-ficticious character within the f
 Please mind this endeavour is a longterm effort, carefully designed along the way for maximum immersion of our Agents (the viewers/listeners). Nothing happens in a day if we are aiming for good quality and a great narrative.
 
 # DIRECTORY_
-**Confirmed:**
+**Confirmed Operatives:**
 ```
 Operative @mechanoreceptor
-Operative @killlxv
-Operative @downwxlf
-Operative @blckbrd.ca
-Operative @iamagaijin
-Norbert Norbi - studio, mastering
-**will** @willbert.sweet.concept.art (rapper, beats) - Canada
+Operative @killlxv - music - US
+Operative @downwxlf - music - US
+Operative @blckbrd.ca - music -
+Operative @iamagaijin - music - US
+Norbert Norbi - music - Poland
+**will** @willbert.sweet.concept.art (rapper, beats) - Canada - music
 ```
 
 **Potential Operative of Hitech Crime Universe:**
