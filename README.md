@@ -70,4 +70,5 @@ Ghost Light Music @ghost_light_music (trapcore, has a studio)
 @voorheesxsf - merch, crosspromo
 @mattpsd
 @damian3k - www.greencavestudio.com / VR dev
+@chainsmane - beats, song postproduction
 ```
