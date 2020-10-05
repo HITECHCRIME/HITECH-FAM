@@ -14,7 +14,7 @@ Please mind this endeavour is a longterm effort, carefully designed along the wa
 **Confirmed Operatives:**
 ```
 Director Operative @mothnode - architect/music - Poland / Tim Moth
-Operative @mechanoreceptor - music - Austin, US / Ryan Northcott
+Operative @mechanoreceptor - music - Austin, US / Ryan Northcott [DECEASED]
 Operative @killlxv - music - US
 Operative @downwxlf - music - US
 Operative @blckbrd.ca - music -
